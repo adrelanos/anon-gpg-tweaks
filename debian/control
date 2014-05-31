@@ -1,0 +1,24 @@
+## This file is part of Whonix.
+## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: anon-gpg-tweaks
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@riseup.net>
+Build-Depends: debhelper (>= 8), faketime, git
+Homepage: https://github.com/Whonix/anon-gpg-tweaks
+Vcs-Browser: https://github.com/Whonix/anon-gpg-tweaks
+Vcs-Git: https://github.com/Whonix/anon-gpg-tweaks.git
+Standards-Version: 3.9.4
+
+Package: anon-gpg-tweaks
+Architecture: all
+Depends: anon-base-files, ${misc:Depends}
+Description: /home/user/.gnupg/gpg.conf for Anonymity Distributions
+ Security and privacy enhancements for gnupg's config file for user "user" in
+ /home/user/.gnupg/gpg.conf.
+ .
+ See also:
+ https://raw.github.com/ioerror/torbirdy/master/gpg.conf
+ https://github.com/ioerror/torbirdy/commit/e6d7c9e6e103f0b3289675d04ed3f92e92d8d7b3
