@@ -14,7 +14,7 @@ Standards-Version: 3.9.4
 
 Package: anon-gpg-tweaks
 Architecture: all
-Depends: anon-base-files, sudo, gnupg-curl, ${misc:Depends}
+Depends: anon-base-files, sudo, gnupg-curl, gnupg-agent, ${misc:Depends}
 Description: /home/user/.gnupg/gpg.conf for Anonymity Distributions
  Security and privacy enhancements for gnupg's config file for user "user" in
  /home/user/.gnupg/gpg.conf.
