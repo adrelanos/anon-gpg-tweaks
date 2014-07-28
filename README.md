@@ -5,7 +5,7 @@ Security and privacy enhancements for gnupg's config file for user "user" in
 
 See also:
 https://raw.github.com/ioerror/torbirdy/master/gpg.conf
-https://github.com/ioerror/torbirdy/commit/e6d7c9e6e103f0b3289675d04ed3f92e92d8d7b3
+https://github.com/ioerror/torbirdy/pull/11
 
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
