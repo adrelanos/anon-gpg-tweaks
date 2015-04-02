@@ -6,7 +6,7 @@ Source: anon-gpg-tweaks
 Section: misc
 Priority: optional
 Maintainer: Patrick Schleizer <adrelanos@riseup.net>
-Build-Depends: debhelper (>= 9), faketime
+Build-Depends: debhelper (>= 9), faketime, genmkfile
 Homepage: https://github.com/Whonix/anon-gpg-tweaks
 Vcs-Browser: https://github.com/Whonix/anon-gpg-tweaks
 Vcs-Git: https://github.com/Whonix/anon-gpg-tweaks.git
