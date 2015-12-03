@@ -1,7 +1,7 @@
-# /home/user/.gnupg/gpg.conf for Anonymity Distributions #
+# /etc/skel/.gnupg/gpg.conf for Anonymity Distributions #
 
-Security and privacy enhancements for gnupg's config file for user "user" in
-/home/user/.gnupg/gpg.conf.
+Security and privacy enhancements for gnupg's config file
+/etc/skel/.gnupg/gpg.conf.
 
 See also:
 https://raw.github.com/ioerror/torbirdy/master/gpg.conf
