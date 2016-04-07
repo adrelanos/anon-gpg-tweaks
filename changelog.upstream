@@ -1,3 +1,23 @@
+commit 55b727974acf10ed76ed99c84fa560260d36e540
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Dec 3 22:50:32 2015 +0000
+
+    chmod 700 /etc/skel/.gnupg in postinst to prevent gpg permission warning
+
+commit 2ace0c0768d7f44fae12df48ac4b29287349b993
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Dec 3 22:30:10 2015 +0000
+
+    no longer write to home folder directly; use /etc/skel;
+    
+    https://phabricator.whonix.org/T419
+
+commit 2c7ae64e5c0dd1d5a5208ceb175a36f08a1c0f01
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Aug 25 14:07:31 2015 +0000
+
+    bumped changelog version
+
 commit b2e9cb1626d7d5aeb1582f226b7a6fc1f26b89f1
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Jun 3 14:58:50 2015 +0000
