@@ -14,7 +14,7 @@ Standards-Version: 3.9.8
 
 Package: anon-gpg-tweaks
 Architecture: all
-Depends: gnupg-agent, ${misc:Depends}
+Depends: ${misc:Depends}
 Description: gnupg configuration for Anonymity Distributions
  Security and privacy enhancements for gnupg's config file
  /etc/skel/.gnupg/gpg.conf.
