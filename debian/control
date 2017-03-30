@@ -19,6 +19,9 @@ Description: gnupg configuration for Anonymity Distributions
  Security and privacy enhancements for gnupg's config files
  /etc/skel/.gnupg/gpg.conf and /etc/skel/.gnupg/dirmngr.conf.
  .
+ Ships icedove torbirdy configuration file
+ /etc/icedove/pref/30_whonix.js that allows torified keyserver access.
+ .
  See also:
  https://raw.github.com/ioerror/torbirdy/master/gpg.conf
  https://github.com/ioerror/torbirdy/pull/11
