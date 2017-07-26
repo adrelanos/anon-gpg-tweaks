@@ -1,3 +1,9 @@
+anon-gpg-tweaks (3:1.7-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Wed, 26 Jul 2017 14:00:51 +0000
+
 anon-gpg-tweaks (3:1.6-1) unstable; urgency=medium
 
   * New upstream version (local package).

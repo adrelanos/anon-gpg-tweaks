@@ -1,3 +1,81 @@
+commit 547e2572d538b5763c7406d17cd54a266c408b05
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 30 15:26:21 2017 +0000
+
+    Description
+
+commit ec135d847746fc818f48ff80b6257537c92c3a06
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 30 15:25:22 2017 +0000
+
+    Description
+
+commit d7ecded06ae038e160fe132c7eee1e01f3adcd21
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 30 15:18:38 2017 +0000
+
+    add /etc/icedove/pref/30_whonix.js
+    
+        pref("extensions.torbirdy.gpg_already_torified", true);
+    
+    https://phabricator.whonix.org/T652
+
+commit 305555b41d9472b9329acb4f13dd4420738f7ddc
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 30 15:11:21 2017 +0000
+
+    add use-tor to dirmngr.conf
+
+commit 9601e4f629b047ce83b3b5d088226bd373d2ea1d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 30 15:10:17 2017 +0000
+
+    disable clearnet keyserver, leave onion keyserver
+
+commit 2e2a4990840c430a6101fc2ce201217dfe5135ca
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 30 15:08:13 2017 +0000
+
+    add original etc/skel/.gnupg/dirmngr.conf
+
+commit b19dd20ca6778b64bdc9f6910ad020482098cbac
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 30 15:07:16 2017 +0000
+
+    add original /usr/share/gnupg/dirmngr-conf.skel
+
+commit 91095d9d4bcf005f4e36f52165d4969918e33cce
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 30 15:06:02 2017 +0000
+
+    remove unneeded dependency on gnupg-agent
+    
+    (implemented in anon-meta-packages)
+
+commit c3db0803293eafcec2ffacf5008accb0c48c300b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 30 15:03:21 2017 +0000
+
+    remove unneeded dependency on anon-base-files
+
+commit 597e0a2ef24191f0ed571f033bf2d1d536a5b98d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 30 14:58:05 2017 +0000
+
+    remove unneeded dependency on sudo
+
+commit e4ba8d14ebfbe3194018869e981e86778bada65b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Mar 30 14:57:23 2017 +0000
+
+    Description
+
+commit 594a88742375c9dd067842bcd268111348a883c7
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Feb 17 13:40:06 2017 +0000
+
+    bumped changelog version
+
 commit 0fc3592bfa4ec246ae39569fc79aa469d54fb294
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Tue Feb 14 17:30:29 2017 +0000
