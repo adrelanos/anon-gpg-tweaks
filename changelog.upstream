@@ -1,3 +1,15 @@
+commit ea2a80a796872a9b886f9d6ab88f824794e9e2aa
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Dec 21 12:01:24 2017 +0000
+
+    icedove -> thunderbird
+
+commit 6657edc5509649a58effe50efd1f8941699b7d8c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jul 26 14:00:51 2017 +0000
+
+    bumped changelog version
+
 commit 547e2572d538b5763c7406d17cd54a266c408b05
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Mar 30 15:26:21 2017 +0000
