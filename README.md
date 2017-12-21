@@ -1,7 +1,10 @@
-# /etc/skel/.gnupg/gpg.conf for Anonymity Distributions #
+# gnupg configuration for Anonymity Distributions #
 
-Security and privacy enhancements for gnupg's config file
-/etc/skel/.gnupg/gpg.conf.
+Security and privacy enhancements for gnupg's config files
+/etc/skel/.gnupg/gpg.conf and /etc/skel/.gnupg/dirmngr.conf.
+
+Ships Thunderbird torbirdy configuration file
+/etc/thunderbird/pref/30_whonix.js that allows torified keyserver access.
 
 See also:
 https://raw.github.com/ioerror/torbirdy/master/gpg.conf
