@@ -20,7 +20,8 @@ case "$1" in
       true "INFO: Configuring $DPKG_MAINTSCRIPT_PACKAGE..."
 
       if [ -d /etc/skel/.gnupg ]; then
-         chmod --recursive 700 /etc/skel/.gnupg
+         ## Lintian warns against use of chmod --recursive.
+         chmod 700 /etc/skel/.gnupg
       fi
 
       true "INFO: End configuring $DPKG_MAINTSCRIPT_PACKAGE."
