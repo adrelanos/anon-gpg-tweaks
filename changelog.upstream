@@ -1,3 +1,35 @@
+commit 944d38ee529e229e02917148f2d1e626a2ab5515
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 08:32:42 2019 -0400
+
+    Lintian warns against use of chmod --recursive.
+    
+    chmod 700 /etc/skel/.gnupg
+
+commit 9cacc804dbdb2685c3a96b01f840bb13e2e46ede
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 08:31:39 2019 -0400
+
+    fix lintian warning
+
+commit f3beba829bc60e975192eb3fc9eab29afb2121b9
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 4 05:50:31 2019 -0400
+
+    port to debian buster
+
+commit d26ba70a50b9b95321d75d2eb7525e94b17a0d24
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Apr 3 18:04:46 2019 -0400
+
+    readme
+
+commit fb15a568d4b5a7538bcfabed87fc48f050074df3
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Mar 29 09:38:29 2019 +0000
+
+    bumped changelog version
+
 commit cf3fca1b8630b5910a28e7ac676002be6194ea16
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Mar 29 09:02:43 2019 +0000
