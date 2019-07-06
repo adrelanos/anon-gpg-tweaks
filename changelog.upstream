@@ -1,3 +1,23 @@
+commit e35558a37449cef0da3a70059b313c028eec6a10
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jul 6 05:53:53 2019 -0400
+
+    disable keyservers
+    
+    quote: "High-risk users should stop using the keyserver network immediately."
+    
+    https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f
+    
+    https://dkg.fifthhorseman.net/blog/openpgp-certificate-flooding.html
+    
+    https://forums.whonix.org/t/gpg-recv-keys-fails-no-longer-use-keyservers-for-anything/5607/8
+
+commit a07d5e71f468c966c6ce94778a445fae2a65f056
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Jun 8 10:06:31 2019 +0000
+
+    bumped changelog version
+
 commit 99b4065fb61525be7260bb9435393fea2b851316
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sat Jun 8 00:05:28 2019 -0400
